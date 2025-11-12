@@ -23,6 +23,7 @@ Automa Factory has designed the official solo modes for these games:
 [Glen More II: Chronicles](https://funtails.de/en/glen-more-ii-chronicles-the-board-game/) (published in the [Highland Games expansion](https://funtails.de/en/glen-more-ii-highland-games/))<br/>
 [Libertalia: Winds of Galecrest](https://stonemaiergames.com/games/libertalia/)<br/>
 [My Little Scythe](https://stonemaiergames.com/games/my-little-scythe/)<br/>
+[Origin Story](https://stonemaiergames.com/games/origin-story/)<br/>
 [Patchwork Anniversary Edition](https://www.lookout-spiele.de/en/games/patchworkanniversary.html) (also published as a [separate promo](https://www.lookout-spiele.de/en/games/patchworkautoma.html))<br/>
 [Pendulum](https://stonemaiergames.com/games/pendulum/)<br/>
 [Red Rising](https://stonemaiergames.com/games/red-rising/)<br/>
@@ -30,10 +31,12 @@ Automa Factory has designed the official solo modes for these games:
 [Rolling Realms Redux](https://stonemaiergames.com/games/rolling-realms/redux/)<br/>
 [Scythe](https://stonemaiergames.com/games/scythe/)<br/>
 [Smitten](https://stonemaiergames.com/games/smitten/)<br/>
+[Smitten 2](https://stonemaiergames.com/games/smitten/smitten-2/)<br/>
 [Stamp Swap](https://stonemaiergames.com/games/stamp-swap/)<br/>
 [Tapestry](https://stonemaiergames.com/games/tapestry/)<br/>
 [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica) (published in [a separate expansion](https://boardgamegeek.com/boardgame/349169/terra-mystica-automa-solo-box) and included in the [Big Box edition](https://boardgamegeek.com/boardgame/181289/terra-mystica-big-box))<br/>
 [Tokaido](https://stonemaiergames.com/games/tokaido/)<br/>
+[Tokaido Duo](https://stonemaiergames.com/games/tokaido/tokaido-duo/)<br/>
 [Viticulture](https://stonemaiergames.com/games/viticulture/)<br/>
 [Wingspan](https://stonemaiergames.com/games/wingspan/)<br/>
 [Wyrmspan](https://stonemaiergames.com/games/wyrmspan/)
