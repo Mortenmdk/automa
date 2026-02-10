@@ -7,10 +7,11 @@ tags:
 type: contentPage
 ---
 
-# Interviews
+# Interviews and a song
 
 Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here's a selection of the interviews.
 
+[Zatu Games, L.N. Hunter: Q&A with Morten Monrad Pedersen](https://www.board-game.co.uk/qa-with-morten-monrad-pedersen/)<br/>
 [Ludology: Flying Solo](http://ludology.net/)<br/>
 [The Dyslexic Gamer](https://boardgamegeek.com/blogpost/139396/designer-questions-solo)<br/>
 [More Games Than Time: The Dark Radio](https://tekeli.li/mgtt/archive/2022/The_Dark_Radio.html)<br/>

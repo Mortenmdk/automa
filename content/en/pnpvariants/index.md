@@ -15,6 +15,10 @@ type: contentPage
 
 [Skoventyr challenges](https://boardgamegeek.com/thread/3218395/skoventyr-challenge-january-2024-base-game): 12 challenges for Skoventyr designed by [Paul Newsham](https://boardgamegeek.com/user/Newsh).
 
+[Urbion expansions](https://boardgamegeek.com/blog/2414/blogpost/93320/an-urbion-contest-the-unity-and-the-alignment-2-mi): 2 expansions for Urbion designed by Morten. No additional components required.
+
+[Knot Dice Limes](https://drive.google.com/file/d/1_nu5ma0Kq7MlWyq4nfetKMdr0mmoSscA/view): A solo game for the Knot Dice system (1 set of Knot Dice is required). Heavily inspired by the card game Limes.
+
 [A variant for the Floriferous solo mode](https://boardgamegeek.com/thread/2811510/a-simple-variant-for-making-the-solo-mode-more-lik).
 
 [A variant for the Baseball Highlight 2045 solo mode](https://boardgamegeek.com/blog/2414/blogpost/51982/baseball-highlights-2045-a-simple-variant-for-uppi)
