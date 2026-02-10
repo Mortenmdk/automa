@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Automa Factory</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://automafactory.com/tags/</link>
     <description>Recent content in Tags on Automa Factory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://automafactory.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>https://automafactory.com/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>https://automafactory.com/tags/about/</guid>
       
       <description></description>
       
@@ -19,10 +19,10 @@
     
     <item>
       <title>Newsletter</title>
-      <link>http://localhost:1313/tags/newsletter/</link>
+      <link>https://automafactory.com/tags/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/newsletter/</guid>
+      <guid>https://automafactory.com/tags/newsletter/</guid>
       
       <description></description>
       

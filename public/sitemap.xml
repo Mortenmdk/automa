@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://automafactory.com/tags/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://automafactory.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamesexpansions/</loc>
+    <loc>https://automafactory.com/gamesexpansions/</loc>
   </url><url>
-    <loc>http://localhost:1313/interviews/</loc>
+    <loc>https://automafactory.com/interviews/</loc>
   </url><url>
-    <loc>http://localhost:1313/pnpvariants/</loc>
+    <loc>https://automafactory.com/pnpvariants/</loc>
   </url><url>
-    <loc>http://localhost:1313/solomodes/</loc>
+    <loc>https://automafactory.com/solomodes/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://automafactory.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://automafactory.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/newsletter/</loc>
+    <loc>https://automafactory.com/tags/newsletter/</loc>
   </url><url>
-    <loc>http://localhost:1313/newsletter/</loc>
+    <loc>https://automafactory.com/newsletter/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://automafactory.com/tags/</loc>
   </url>
 </urlset>

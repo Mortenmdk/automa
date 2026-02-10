@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Automa Factory</title>
-    <link>http://localhost:1313/</link>
+    <link>https://automafactory.com/</link>
     <description>Recent content in Home on Automa Factory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://automafactory.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automa Factory</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://automafactory.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://automafactory.com/about/</guid>
       
       <description>&lt;br/&gt;
 &lt;p&gt;The seeds of Automa Factory were sown in February 2014, when Jamey Stegmaier of Stonemaier Games reached out to Morten Monrad Pedersen and asked him to make a solo mode for &lt;a href=&#34;https://boardgamegeek.com/boardgame/128621/viticulture&#34;&gt;Viticulture&lt;/a&gt;.&lt;/p&gt;
@@ -23,31 +23,31 @@ Euphoria and the &lt;a href=&#34;https://boardgamegeek.com/boardgame/205050/host
     
     <item>
       <title>Automa Factory</title>
-      <link>http://localhost:1313/gamesexpansions/</link>
+      <link>https://automafactory.com/gamesexpansions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gamesexpansions/</guid>
+      <guid>https://automafactory.com/gamesexpansions/</guid>
       
       <description>&lt;br/&gt;
 &lt;p&gt;Apart from making solo modes, Automa Factory is also designing expansions and games.&lt;/p&gt;
 &lt;h1 id=&#34;games&#34;&gt;Games&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://inpatience.com/en/Our_Games-29-Skoventyr&#34;&gt;Skoventyr&lt;/a&gt;&lt;br/&gt;
-Game 2: To be announced (sign up for &lt;a href=&#34;http://localhost:1313/newsletter/&#34;&gt;our newsletter&lt;/a&gt; if you want to stay in the loop)&lt;/p&gt;
+&lt;a href=&#34;https://boardgamegeek.com/boardgame/463602/shajarat&#34;&gt;Shajarat&lt;/a&gt;: To be released in 2027 by inPatience (sign up for &lt;a href=&#34;https://automafactory.com/newsletter/&#34;&gt;our newsletter&lt;/a&gt; if you want to stay in the loop)&lt;/p&gt;
 &lt;h1 id=&#34;expansions--promos&#34;&gt;Expansions &amp;amp; promos&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://stonemaiergames.com/games/euphoria/expansion/&#34;&gt;Euphoria: Ignorance is Bliss&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://vanrydergames.com/products/hostage-negotiator-abductor-pack-5&#34;&gt;Hostage Negotiator: Abductor Pack #5 Circle of Automa&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://store.stonemaiergames.com/products/rolling-realms-promo-minigolf&#34;&gt;Rolling Realms: Minigolf Promo Realm&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://store.stonemaiergames.com/products/rolling-realms-promo-beyond-the-realmiverse&#34;&gt;Rolling Realms: Beyond the Realmiverse&lt;/a&gt; (mini-campaign solo mode)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/afLogo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://automafactory.com/images/afLogo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Automa Factory</title>
-      <link>http://localhost:1313/interviews/</link>
+      <link>https://automafactory.com/interviews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interviews/</guid>
+      <guid>https://automafactory.com/interviews/</guid>
       
       <description>&lt;h1 id=&#34;interviews-and-a-song&#34;&gt;Interviews and a song&lt;/h1&gt;
 &lt;p&gt;Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here&amp;rsquo;s a selection of the interviews.&lt;/p&gt;
@@ -81,10 +81,10 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
     
     <item>
       <title>Automa Factory</title>
-      <link>http://localhost:1313/pnpvariants/</link>
+      <link>https://automafactory.com/pnpvariants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pnpvariants/</guid>
+      <guid>https://automafactory.com/pnpvariants/</guid>
       
       <description>&lt;h1 id=&#34;print--play-variants-and-challenges&#34;&gt;Print &amp;amp; Play, Variants, and Challenges&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://automafactory.com/rr-youtoma/&#34;&gt;Youtoma&lt;/a&gt;: An alternative solo mode for Rolling Realms.&lt;/p&gt;
@@ -96,10 +96,10 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
     
     <item>
       <title>Automa Factory</title>
-      <link>http://localhost:1313/solomodes/</link>
+      <link>https://automafactory.com/solomodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/solomodes/</guid>
+      <guid>https://automafactory.com/solomodes/</guid>
       
       <description>&lt;h1 id=&#34;solo-modes-by-automa-factory&#34;&gt;Solo modes by Automa Factory&lt;/h1&gt;
 &lt;p&gt;Automa Factory has designed the official solo modes for these games:&lt;/p&gt;
@@ -137,10 +137,10 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
     
     <item>
       <title>Newsletter signup</title>
-      <link>http://localhost:1313/newsletter/</link>
+      <link>https://automafactory.com/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/newsletter/</guid>
+      <guid>https://automafactory.com/newsletter/</guid>
       
       <description>&lt;br/&gt;
 &lt;p&gt;If you want to stay in the loop on what’s going on at Automa Factory, or if you want to help us playtest, then please sign up for our newsletter below. It&amp;rsquo;s sent out rather infrequently, so don&amp;rsquo;t worry, your inbox won&amp;rsquo;t get flooded :-)&lt;/p&gt;</description>

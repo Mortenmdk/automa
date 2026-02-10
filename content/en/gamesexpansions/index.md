@@ -14,7 +14,7 @@ Apart from making solo modes, Automa Factory is also designing expansions and ga
 # Games
 
 [Skoventyr](https://inpatience.com/en/Our_Games-29-Skoventyr)<br/>
-Game 2: To be announced (sign up for [our newsletter](newsletter) if you want to stay in the loop)
+[Shajarat](https://boardgamegeek.com/boardgame/463602/shajarat): To be released in 2027 by inPatience (sign up for [our newsletter](newsletter) if you want to stay in the loop)
 
 # Expansions & promos
 
