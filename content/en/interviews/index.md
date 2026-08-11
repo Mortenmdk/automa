@@ -11,8 +11,9 @@ type: contentPage
 
 Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here's a selection of the interviews.
 
+Beyond Solitaire: Morten Monrad Pedersen on Solo Design. [Podcast](https://beyondsolitaire.buzzsprout.com/1091807/episodes/19617801-episode-243-morten-monrad-pedersen-on-solo-design) - [Youtube](https://www.youtube.com/watch?v=87ka6TZRTww)<br/>
 [Zatu Games, L.N. Hunter: Q&A with Morten Monrad Pedersen](https://www.board-game.co.uk/qa-with-morten-monrad-pedersen/)<br/>
-[Ludology: Flying Solo](http://ludology.net/)<br/>
+[Ludology: Flying Solo](https://ludology.libsyn.com/webpage/ludology-301-flying-solo)<br/>
 [The Dyslexic Gamer](https://boardgamegeek.com/blogpost/139396/designer-questions-solo)<br/>
 [More Games Than Time: The Dark Radio](https://tekeli.li/mgtt/archive/2022/The_Dark_Radio.html)<br/>
 [Detouring: Software Developer to Boardgame Designer](https://anchor.fm/detouring-podcast/episodes/Software-Developer-to-Boardgame-Designer-Mortens-Journey-e1j1770)<br/>
@@ -25,7 +26,7 @@ Over the years Automa Factory founder, Morten Monrad Pedersen, has been intervie
 [Academy of Board Games](https://www.stolovky.sk/2018/10/25/interview-morten-monrad-pedersen-stonemaier-games-essen-2018/)<br/>
 [Cardboard Clash](https://cardboardclash.wordpress.com/2018/05/12/interview-with-morten-monrad-pedersen/)<br/>
 [Every Night Is Game Night:Charterstone and Gaia Project w/ Automa Factory](https://www.boardgamersanonymous.com/engn-episode-74-charterstone-gaia-project-w-automa-factory/)<br/>
-[Solo Manolo: Der Charterstone der Weisen](https://udfa2h.podcaster.de/solomanolo/folge-1-solo-manolo-und-der-charterstone-der-weisen/) (English interviews starts at 39:46)<br/>
+[Solo Manolo: Der Charterstone der Weisen](https://udfa2h.podcaster.de/solomanolo/folge-1-solo-manolo-und-der-charterstone-der-weisen/) (English interview starts at 39:46)<br/>
 [The Cardboard Herald](https://www.cardboardherald.com/podcasts/2017/9/13/episode-45-morten-monrad-pedersen-of-the-automa-factory)<br/>
 [Ludology: Leave Me Alone](https://ludology.libsyn.com/ludology-episode-154-leave-me-alone)<br/>
 [Board Chitless: How do you say 'Archipelago'? ](https://boardgamegeek.com/blog/1429/blogpost/65240/board-chitless-episode-7-how-do-you-say-archipelag)<br/>

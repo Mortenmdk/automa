@@ -16,7 +16,8 @@ Automa Factory has designed the official solo modes for these games:
 [Between Two Castles](https://stonemaiergames.com/games/between-two-castles/) (published in the [Secreets & Soirees expansion](https://stonemaiergames.com/games/between-two-castles/secrets-soirees-expansion/), now included in the Essential Edition)<br/>
 [Between Two Cities](https://stonemaiergames.com/games/between-two-cities/)<br/>
 [Charterstone](https://stonemaiergames.com/games/charterstone/)<br/>
-[Euphoria](https://stonemaiergames.com/games/euphoria/) (published in the [Ignorance is Bliss expansion](https://stonemaiergames.com/games/euphoria/expansion/))<br/>
+[Duel of Meloch](https://stonemaiergames.com/games/duel-of-meloch/)<br/>
+[Euphoria](https://stonemaiergames.com/games/euphoria/) (published in the [Ignorance is Bliss expansion](https://stonemaiergames.com/games/euphoria/expansion/), now included in the Essential Edition)<br/>
 [Expeditions](https://stonemaiergames.com/games/expeditions/)<br/>
 [Finspan](https://stonemaiergames.com/games/finspan/)<br/>
 [Gaia Project](https://boardgamegeek.com/boardgame/220308/gaia-project)<br/>
@@ -39,6 +40,7 @@ Automa Factory has designed the official solo modes for these games:
 [Tokaido Duo](https://stonemaiergames.com/games/tokaido/tokaido-duo/)<br/>
 [Viticulture](https://stonemaiergames.com/games/viticulture/)<br/>
 [Wingspan](https://stonemaiergames.com/games/wingspan/)<br/>
+[Wingspan Pocket](https://stonemaiergames.com/games/wingspan/wingspan-pocket/)<br/>
 [Wyrmspan](https://stonemaiergames.com/games/wyrmspan/)
 
 ![](images/afLogo.png)
